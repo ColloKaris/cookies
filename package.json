@@ -1,0 +1,23 @@
+{
+  "name": "cookies",
+  "version": "1.0.0",
+  "description": "Working with Cookies in Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ColloKaris/cookies.git"
+  },
+  "author": "Collins Kariuki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ColloKaris/cookies/issues"
+  },
+  "homepage": "https://github.com/ColloKaris/cookies#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
